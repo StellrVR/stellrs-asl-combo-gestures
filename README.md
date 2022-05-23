@@ -27,6 +27,7 @@ A simple Unity package for ASL using combination gestures.
 - IRLY
 - U
 
+*Want more hand shapes? Visit my other GitHub page for 63 more animations! https://github.com/StellrTravels/vrchat-asl-handshapes*
 *If you want to change the hand shapes, you can drag and drop the animations into the animation states in the controller.*
 
 
