@@ -1,2 +1,42 @@
-# stellrs-asl-combo-gestures
+# Stellr's ASL Combo Gestures
 A simple Unity package containing a Gesture controller, all animations, and a How To Guide
+
+
+# What's Included?
+- A folder of animations used in the gestures animation controller
+- A Gestures animation controller
+- How To Guide
+
+
+# Hand Shapes Used In Controller
+- F
+- R
+- I
+- K
+- X
+- 8
+- E
+- ILY
+- W
+- G
+- B
+- Flat O
+- Bent V
+
+# Hand Shapes Included in Folder
+- IRLY
+- U
+
+*If you want to change the hand shapes, you can drag and drop the animations into the animation states in the controller.*
+
+
+# How To Add Combo Gestures (in case you don't read the guide included):
+1. Drag and drop the Gestures animator controller into the Gestures slot in your avatar descriptor.
+2. Add "CopyGesture" bool parameter to your avatar's parameters.
+3. Add "Copy Gesture" menu option as a Toggle in your avatar's Expressions Menu
+4. Profit
+
+
+*Note: Not every avatar's hands will look nice with this package, so you will need to adjust the animations accordingly to your avatar.*
+
+(Some animations made by SaikoArt_Finn)
