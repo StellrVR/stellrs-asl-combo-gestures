@@ -40,3 +40,4 @@ A simple Unity package for ASL using combination gestures.
 *Note: Not every avatar's hands will look nice with this package, so you will need to adjust the animations accordingly to your avatar.*
 
 (Some animations and setup script made by SaikoArt_Finn)
+(https://saikoartfinn.gumroad.com/l/lbSUY)
