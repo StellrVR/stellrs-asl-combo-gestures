@@ -1,5 +1,5 @@
 # Stellr's ASL Combo Gestures
-A simple Unity package containing a Gesture controller, all animations, and a How To Guide
+A simple Unity package for ASL using combination gestures.
 
 
 # What's Included?
