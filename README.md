@@ -1,4 +1,4 @@
-# Stellr's ASL Combo Gestures
+# July's ASL Combo Gestures
 A simple Unity package for ASL using combination gestures.
 
 
