@@ -34,8 +34,8 @@ A simple Unity package for ASL using combination gestures.
 
 # How To Add Combo Gestures (in case you don't read the guide included):
 1. Drag and drop the Gestures animator controller into the Gestures slot in your avatar descriptor.
-2. Add "CopyGesture" bool parameter to your avatar's parameters.
-3. Add "Copy Gesture" menu option as a Toggle in your avatar's Expressions Menu
+2. Add "CopyGesture" and "SignToggle" bool parameters to your avatar's parameters.
+3. Add "Copy Gesture" and "Sign Toggle" menu options as a Toggle in your avatar's Expressions Menu
 4. Profit
 
 
