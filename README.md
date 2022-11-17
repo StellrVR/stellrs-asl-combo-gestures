@@ -43,3 +43,13 @@ A simple Unity package for ASL using combination gestures.
 
 (Some animations and setup script for the animator controller made by SaikoArt_Finn)
 (https://saikoartfinn.gumroad.com/l/lbSUY)
+
+# Common Problems / Fixes
+**My left hand is not copying the same handshape as my right hand.**
+1. You must have "CopyGesture" as a Bool parameter in your avatar's Expression Parameters
+
+**The sign hands are not working at all.**
+1. Ensure that you have the "SignToggle" Bool parameter in your avatar's Expression Parameters, as the sign animations are off by default.
+
+**My hands are claws! / My hands are broken!**
+1. Ensure that your FX controller does not have any animations that are for your GESTURES ONLY. This conflicts with the Gesture Controller and will cause your hands to break.
