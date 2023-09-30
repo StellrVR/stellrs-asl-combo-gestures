@@ -1,4 +1,5 @@
 # Stellr's ASL Combo Gestures
+[![Github All Releases](https://img.shields.io/github/downloads/StellrVR/stellrs-asl-combo-gestures/total.svg)](https://github.com/StellrVR/stellrs-asl-combo-gestures/releases/latest)
 A simple Unity package for ASL using combination gestures.
 
 
